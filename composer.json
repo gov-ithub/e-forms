@@ -1,7 +1,8 @@
 {
     "name": "gov-ithub/e-forms",
-    "type": "project",
+    "description": "",
 
+    "type": "project",
     "license": "MIT",
 
     "autoload": {
